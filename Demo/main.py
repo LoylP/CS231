@@ -12,7 +12,6 @@ st.set_page_config(
     page_icon='🚦',
 )
 
-# Custom CSS for better styling
 st.markdown("""
     <style>
         .main { background-color: #000015; }
