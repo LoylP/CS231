@@ -6,6 +6,8 @@
 ## 💫About Me :
 👋 NAME: Nguyễn Hoàng Phúc  
 
+👋 Role: Leader
+
 👋 MSSV: 22521129
 
 👋 Gmail: 22521129@gm.uit.edu.vn
